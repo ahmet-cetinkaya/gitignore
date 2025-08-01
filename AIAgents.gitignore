@@ -1,0 +1,10 @@
+# AI Code Agents
+.cursorignore
+.cursorindexingignore
+.cursor/
+.zencoder/
+.qodo/
+.aider/
+.continue/
+CLAUDE.md
+CLAUDE.local.md
